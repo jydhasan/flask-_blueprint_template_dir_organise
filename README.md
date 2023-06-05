@@ -1,5 +1,12 @@
 # flask-_blueprint_template_dir_organise
-# admin_bp = Blueprint('admin', __name__, static_folder='../static',static_url_path='/admin/static', template_folder='../templates')
+
+## code 
+
+```javascript
+admin_bp = Blueprint('admin', __name__, static_folder='../static',static_url_path='/admin/static', template_folder='../templates')
+```
+
+
 forn one step back folder
 folder strecture 
 ## Usage/Examples
